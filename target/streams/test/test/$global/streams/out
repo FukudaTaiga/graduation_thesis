@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NFATest, org.scalatest.tools.Framework$$anon$1@1e73da3d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SSTTest, org.scalatest.tools.Framework$$anon$1@1e73da3d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(DFATest, org.scalatest.tools.Framework$$anon$1@1e73da3d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(RegFATest, org.scalatest.tools.Framework$$anon$1@1e73da3d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TransducerTest, org.scalatest.tools.Framework$$anon$1@1e73da3d, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 623 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DFATest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SSTTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RegFATest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TransducerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NFATest[0m

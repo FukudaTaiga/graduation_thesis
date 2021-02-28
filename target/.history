@@ -1,0 +1,500 @@
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/range.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reunion.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+test
+console
+test
+clean
+assembly
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/reunion.smt2
+:q
+run benchmarks/reunion.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/int3.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/int1.smt2
+run benchmarks/int.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/test4.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/test5.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test1.smt2
+run benchmarks/test5.smt2
+run benchmarks/test1.smt2
+run benchmarks/test5.smt2
+exit
+run benchmarks/test5.smt2
+exit
+run benchmarks/test5.smt2
+run benchmarks/test.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/range.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reunion.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test.smt2
+clean
+exit
+run benchmarks/test.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test1.smt2
+run benchmarks/test0.smt2
+run benchmarks/test5.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test3.smt2
+run benchmarks/test2.smt2
+run benchmarks/test1.smt2
+run benchmarks/test0.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug6.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reunion.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/test.smt2
+exit
+run benchmarks/test.smt2
+run benchmarks/reg2.smt2
+run benchmarks/test.smt2
+run benchmarks/test5.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/reg2.smt2
+int3
+run benchmarks/int3.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test1.smt2
+run benchmarks/test5.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test.smt2
+run benchmarks/test5.smt2
+run benchmarks/test.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/range.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reunion.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test.smt2
+run benchmarks/test2.smt2
+run benchmarks/test5.smt2
+assembly
+exit
+clean
+assembly
+exit
+test
+run benchmarks/test1.smt2
+console
+run benchmarks/test1.smt2
+console
+run benchmarks/test1.smt2
+exit
+run benchmarks/test1.smt2
+exit
+run benchmarks/test.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/range.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reunion.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+console
+run benchmarks/substr.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+run benchmarks/test1.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reg1.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reunion.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/test5.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/test5.smt2
+run benchmarks/test4.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reunion.smt2
+run benchmarks/reint3.smt2
+run benchmarks/int3.smt2
+run benchmarks/test.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/range.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reunion.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+test
+exit
+clean
+assembly
+exit
+test
+run ./checker at.smt2
+run ./checker benchmarks/at.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/int2.smt2
+run benchmarks/test2.smt2
+run benchmarks/test5.smt2
+run benchmarks/test4.smt2
+exit
+run benchmarks/int2
+run benchmarks/int2.smt2
+run benchmarks/int.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test3.smt2
+run benchmarks/test5.smt2
+console
+exit
+run benchmarks/test5.smt2
+exit
+run benchmarks/at.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test6.smt2
+run benchmarks/test5.smt2
+run benchmarks/test4.smt2
+run benchmarks/test.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int3.smt2
+run benchmarks/int2.smt2
+run benchmarks/int1.smt2
+run benchmarks/int3.smt2
+compile
+run benchmarks/int3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test6.smt2
+run benchmarks/at.smt2
+run benchmarks/at2.smt2
+run benchmarks/bug1.smt2
+run benchmarks/bug2.smt2
+run benchmarks/bug3.smt2
+run benchmarks/bug4.smt2
+run benchmarks/bug5.smt2
+run benchmarks/bug6.smt2
+run benchmarks/insert.smt2
+run benchmarks/insert2.smt2
+run benchmarks/range.smt2
+run benchmarks/int.smt2
+run benchmarks/int2.smt2
+run benchmarks/int4.smt2
+run benchmarks/int3.smt2
+run benchmarks/reallchar.smt2
+run benchmarks/reconcat.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/reg4.smt2
+run benchmarks/reunion.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/speed1.smt2
+run benchmarks/speed2.smt2
+run benchmarks/substr.smt2
+run benchmarks/substr2.smt2
+run benchmarks/substr3.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test.smt2
+compile
+test
+assembly
+exit
+run benchmarks/test4.smt2
+compile
+run benchmarks/test4.smt2
+compile
+run benchmarks/test4.smt2
+exit
+compile
+run benchmarks/test4.smt2
+compile
+run benchmarks/test6.smt2
+run benchmarks/test4.smt2
+run -p benchmarks/test4.smt2
+run benchmarks/test4.smt2 -p
+clean
+sbt assembly
+assembly
+run benchmarks/test4.smt2 -p
+run benchmarks/test0.smt2 -p
+run benchmarks/test1.smt2 -p
+run benchmarks/test0.smt2 -p
+run benchmarks/test4.smt2 -p
+run benchmarks/test0.smt2 -p
+run benchmarks/test4.smt2 -p
+run benchmarks/test6.smt2
+exit
+compile 
+run benchmarks/reunion.smt2
+run benchmarks/slow1.smt2
+run benchmarks/slow.smt2
+run benchmarks/slow2.smt2
+run benchmarks/substr.smt2
+run benchmarks/reg.smt2
+run benchmarks/reg2.smt2
+run benchmarks/reg3.smt2
+run benchmarks/test.smt2
+run benchmarks/test0.smt2
+run benchmarks/test1.smt2
+run benchmarks/test2.smt2
+run benchmarks/test3.smt2
+run benchmarks/test4.smt2
+run benchmarks/test5.smt2
+clear
+clear()
+compile 
+exit
+compile 
+run benchmarks/test4.smt2
+run benchmarks/substr.smt2
+test
+exit
+run benchmarks/reunion.smt2
+run benchmarks/test3.smt2
+exit

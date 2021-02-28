@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mNFATest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should ε-closure[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should transition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should accept[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should サブセット構成[0m[0m

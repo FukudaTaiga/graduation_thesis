@@ -1,0 +1,15 @@
+(declare-const x String)
+(declare-const y String)
+(declare-const z String)
+(declare-const x1 String)
+(declare-const z1 String)
+
+(assert (= y (str.reverse x)) )
+(assert (= z (str.replaceall y "aa" "x")) )
+(assert (= z1 (str.reverse z)) )
+(assert (= x1 (str.replaceall x "aa" "x")) )
+(assert (not (= x1 z1)) )
+(assert (= (str.len x) 3) )
+
+(check-sat)
+(get-model)

@@ -1,0 +1,15 @@
+(declare-fun x0 () String)
+(declare-fun x1 () String)
+(declare-fun x2 () String)
+(declare-fun x3 () String)
+
+(assert(= x2 (str.++ x0 "abc" x1)))
+(assert(= x3 (str.++ x2 "ba")))
+(assert(= (str.len x0) 3) )
+(assert(not (= x2 x0)))
+(assert(not (= x3 x2)))
+(assert(< 0 (str.len x0)))
+(assert(< 0 (str.len x1)))
+
+(check-sat)
+(get-model)
